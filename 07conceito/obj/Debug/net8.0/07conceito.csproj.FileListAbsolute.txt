@@ -1,0 +1,14 @@
+C:\Users\louis\Desktop\logica_c#\07conceito\bin\Debug\net8.0\07conceito.exe
+C:\Users\louis\Desktop\logica_c#\07conceito\bin\Debug\net8.0\07conceito.deps.json
+C:\Users\louis\Desktop\logica_c#\07conceito\bin\Debug\net8.0\07conceito.runtimeconfig.json
+C:\Users\louis\Desktop\logica_c#\07conceito\bin\Debug\net8.0\07conceito.dll
+C:\Users\louis\Desktop\logica_c#\07conceito\bin\Debug\net8.0\07conceito.pdb
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\07conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\07conceito.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\07conceito.AssemblyInfo.cs
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\07conceito.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\07conceito.dll
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\refint\07conceito.dll
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\07conceito.pdb
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\07conceito.genruntimeconfig.cache
+C:\Users\louis\Desktop\logica_c#\07conceito\obj\Debug\net8.0\ref\07conceito.dll
