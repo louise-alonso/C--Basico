@@ -36,12 +36,12 @@ Para executar os exemplos deste repositório, você precisará ter o **.NET SDK*
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/louise-alonso/C--Basico.git](https://github.com/louise-alonso/C--Basico.git)
+    git clone [https://github.com/louise-alonso/CSharp-Basico.git](https://github.com/louise-alonso/CSharp-Basico.git)
     ```
 
 2.  **Acesse a pasta do projeto:**
     ```sh
-    cd C--Basico
+    cd CSharp-Basico
     ```
 
 3.  **Execute um dos projetos:**
