@@ -1,0 +1,15 @@
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.AssemblyInfo.cs
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.sourcelink.json
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.exe
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.deps.json
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.runtimeconfig.json
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.dll
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\bin\Debug\net8.0\09operadores_logicos.pdb
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.dll
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\refint\09operadores_logicos.dll
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.pdb
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\09operadores_logicos.genruntimeconfig.cache
+C:\Users\louis\Desktop\logica_c#\09operadores_logicos\obj\Debug\net8.0\ref\09operadores_logicos.dll

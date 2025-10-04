@@ -1,0 +1,15 @@
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\bin\Debug\net8.0\11condicional.exe
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\bin\Debug\net8.0\11condicional.deps.json
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\bin\Debug\net8.0\11condicional.runtimeconfig.json
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\bin\Debug\net8.0\11condicional.dll
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\bin\Debug\net8.0\11condicional.pdb
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.AssemblyInfo.cs
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.sourcelink.json
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.dll
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\refint\11condicional.dll
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.pdb
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\11condicional.genruntimeconfig.cache
+C:\Users\louis\Desktop\logica_c#\11condicional_encadeada\obj\Debug\net8.0\ref\11condicional.dll

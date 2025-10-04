@@ -1,0 +1,15 @@
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\bin\Debug\net8.0\10condicional_simples.exe
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\bin\Debug\net8.0\10condicional_simples.deps.json
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\bin\Debug\net8.0\10condicional_simples.runtimeconfig.json
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\bin\Debug\net8.0\10condicional_simples.dll
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\bin\Debug\net8.0\10condicional_simples.pdb
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfo.cs
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.sourcelink.json
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.dll
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\refint\10condicional_simples.dll
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.pdb
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\10condicional_simples.genruntimeconfig.cache
+C:\Users\louis\Desktop\logica_c#\10condicional_simples\obj\Debug\net8.0\ref\10condicional_simples.dll

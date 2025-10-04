@@ -1,0 +1,15 @@
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.AssemblyInfo.cs
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.sourcelink.json
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\bin\Debug\net8.0\12condicionadores_logicos.exe
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\bin\Debug\net8.0\12condicionadores_logicos.deps.json
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\bin\Debug\net8.0\12condicionadores_logicos.runtimeconfig.json
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\bin\Debug\net8.0\12condicionadores_logicos.dll
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\bin\Debug\net8.0\12condicionadores_logicos.pdb
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.dll
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\refint\12condicionadores_logicos.dll
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.pdb
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\12condicionadores_logicos.genruntimeconfig.cache
+C:\Users\louis\Desktop\logica_c#\12condicionadores_logicos\obj\Debug\net8.0\ref\12condicionadores_logicos.dll
