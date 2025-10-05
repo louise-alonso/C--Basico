@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\07conceito\\07conceito.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\07operadores_aritmeticos\\07conceito.csproj",
       "projectName": "07conceito",
-      "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\07conceito\\07conceito.csproj",
+      "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\07operadores_aritmeticos\\07conceito.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\07conceito\\obj\\",
+      "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\07operadores_aritmeticos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config"

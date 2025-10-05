@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\louis\\Desktop\\logica_c#\\08conceito\\08conceito.csproj": {}
+    "C:\\Users\\louis\\Desktop\\logica_c#\\08operadores_relacionais\\08conceito.csproj": {}
   },
   "projects": {
-    "C:\\Users\\louis\\Desktop\\logica_c#\\08conceito\\08conceito.csproj": {
+    "C:\\Users\\louis\\Desktop\\logica_c#\\08operadores_relacionais\\08conceito.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\08conceito\\08conceito.csproj",
+        "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\08operadores_relacionais\\08conceito.csproj",
         "projectName": "08conceito",
-        "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\08conceito\\08conceito.csproj",
+        "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\08operadores_relacionais\\08conceito.csproj",
         "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\08conceito\\obj\\",
+        "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\08operadores_relacionais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config"

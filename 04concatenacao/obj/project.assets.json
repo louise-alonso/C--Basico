@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\04conceito\\04conceito.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\04concatenacao\\04conceito.csproj",
       "projectName": "04conceito",
-      "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\04conceito\\04conceito.csproj",
+      "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\04concatenacao\\04conceito.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\04conceito\\obj\\",
+      "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\04concatenacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config"

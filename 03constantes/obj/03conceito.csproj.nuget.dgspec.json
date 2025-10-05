@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\louis\\Desktop\\logica_c#\\03conceito\\03conceito.csproj": {}
+    "C:\\Users\\louis\\Desktop\\logica_c#\\03constantes\\03conceito.csproj": {}
   },
   "projects": {
-    "C:\\Users\\louis\\Desktop\\logica_c#\\03conceito\\03conceito.csproj": {
+    "C:\\Users\\louis\\Desktop\\logica_c#\\03constantes\\03conceito.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\03conceito\\03conceito.csproj",
+        "projectUniqueName": "C:\\Users\\louis\\Desktop\\logica_c#\\03constantes\\03conceito.csproj",
         "projectName": "03conceito",
-        "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\03conceito\\03conceito.csproj",
+        "projectPath": "C:\\Users\\louis\\Desktop\\logica_c#\\03constantes\\03conceito.csproj",
         "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\03conceito\\obj\\",
+        "outputPath": "C:\\Users\\louis\\Desktop\\logica_c#\\03constantes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config"

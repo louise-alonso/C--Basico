@@ -12,3 +12,4 @@ C:\Users\louis\Desktop\logica_c#\01conceito\obj\Debug\net8.0\refint\01conceito.d
 C:\Users\louis\Desktop\logica_c#\01conceito\obj\Debug\net8.0\01conceito.pdb
 C:\Users\louis\Desktop\logica_c#\01conceito\obj\Debug\net8.0\01conceito.genruntimeconfig.cache
 C:\Users\louis\Desktop\logica_c#\01conceito\obj\Debug\net8.0\ref\01conceito.dll
+C:\Users\louis\Desktop\logica_c#\01conceito\obj\Debug\net8.0\01conceito.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\bin\Debug\net8.0\13operador_ternario.exe
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\bin\Debug\net8.0\13operador_ternario.deps.json
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\bin\Debug\net8.0\13operador_ternario.runtimeconfig.json
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\bin\Debug\net8.0\13operador_ternario.dll
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\bin\Debug\net8.0\13operador_ternario.pdb
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.AssemblyInfoInputs.cache
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.AssemblyInfo.cs
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.sourcelink.json
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.dll
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\refint\13operador_ternario.dll
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.pdb
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\13operador_ternario.genruntimeconfig.cache
+C:\Users\louis\Desktop\logica_c#\13operador_ternario\obj\Debug\net8.0\ref\13operador_ternario.dll
