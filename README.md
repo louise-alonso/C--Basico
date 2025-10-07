@@ -1,6 +1,7 @@
 # 🚀 Jornada de Estudos em C#
 
 Bem-vindo(a)! Este repositório documenta minha jornada de aprendizado e aprofundamento nos conceitos fundamentais da linguagem **C#** e do ecossistema **.NET**. Meu objetivo é construir uma base sólida, registrar meu progresso e criar um material prático para consulta.
+Todo o conhecimento presente neste repositório foi adquirido através da playlist "Lógica e Algoritmos com C#" do canal Ralf Lima no YouTube: http://www.youtube.com/watch?v=FaG3s12nRJM
 
 ## 🎯 Objetivos do Repositório
 
