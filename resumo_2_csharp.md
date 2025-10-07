@@ -1,5 +1,3 @@
-# Tópicos Intermediários em C# (Explicação Fácil)
-
 ## 1. Coleções: Formas de Guardar Vários Dados
 
 Pense nas coleções como "caixas" especiais para guardar e organizar múltiplos itens. Cada tipo de "caixa" tem um jeito diferente de organizar, o que a torna melhor para certas tarefas.
