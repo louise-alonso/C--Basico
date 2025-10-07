@@ -96,6 +96,17 @@ Console.WriteLine(historicoNavegacao.Pop()); // Saída: youtube.com (última pá
 ```
 
 ---
+### Tabela Comparativa: Qual Lista Usar?
+
+| Tipo de Coleção | Ponto Forte Principal | Melhor Cenário de Uso | Ponto Fraco |
+|---|---|---|---|
+| **`List<T>`** | **Acesso rápido por posição (índice)**. É o "faz-tudo". | A maioria dos casos: listas de usuários, produtos, notas, etc. | Adicionar/remover no *meio* de uma lista **muito grande** pode ser lento. |
+| **`LinkedList<T>`** | **Adicionar e remover itens no meio** da lista é extremamente rápido. | Playlists de música, histórico de "desfazer", onde a ordem e a inserção/remoção são mais importantes que o acesso direto. | Acessar um item por posição (índice) é **muito lento**, pois precisa percorrer a lista desde o início. |
+| **`Dictionary<TKey, TValue>`** | **Busca instantânea por uma chave única**. | Quando você precisa encontrar algo por um identificador: buscar um usuário pelo CPF, um produto pelo código de barras. | Não mantém uma ordem de inserção garantida (em versões mais antigas do .NET). |
+| **`Queue<T>`** | **Garante a ordem "Primeiro a Entrar, Primeiro a Sair" (FIFO)**. | Gerenciar filas: processos de impressão, atendimentos em um chat, tarefas a serem executadas em sequência. | Acesso apenas aos itens do início e do fim. Não se pode acessar um item no meio. |
+| **`Stack<T>`** | **Garante a ordem "Último a Entrar, Primeiro a Sair" (LIFO)**. | Implementar funcionalidades de "Voltar" ou "Desfazer" (Ctrl+Z), onde a última ação é a primeira a ser revertida. | Acesso apenas ao item do topo. Não se pode acessar um item no meio. |
+
+---
 
 ## 2. Manipulação de Textos, Números e Datas
 
@@ -152,7 +163,7 @@ Console.WriteLine(daqui5dias);
 
 // Formatar a data para o padrão brasileiro
 Console.WriteLine(agora.ToString("dd/MM/yyyy"));       // Saída: 07/10/2025
-Console.WriteLine(agora.ToString("HH:mm:ss"));          // Saída: 13:54:27
+Console.WriteLine(agora.ToString("HH:mm:ss"));          // Saída: 14:05:00
 ```
 
 ---
